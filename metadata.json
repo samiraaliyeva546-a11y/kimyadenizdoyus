@@ -1,0 +1,8 @@
+{
+  "name": "Kimya Donanması — Dəniz Döyüşü",
+  "description": "Tələbələr üçün klassik və kimya fənni üzrə sual-cavab (viktorina) rejimlərinə malik interaktiv Dəniz Döyüşü oyunu. Hər gəmi bir kimya mövzusu ilə qorunur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
